@@ -1,0 +1,46 @@
+h1,
+h2,
+h3,
+h5 {
+  font-family: "Tiro Devanagari Marathi", serif;
+}
+h2,
+h5 {
+  color: rgb(177, 68, 68);
+}
+p {
+  font-size: 14pt;
+  text-align: center;
+}
+.day,
+.time,
+.temperature {
+  font-size: 17pt;
+  color: rgb(45, 45, 155);
+  font-weight: bold;
+  text-align: left;
+}
+li {
+  margin: 0;
+  padding: 0;
+  color: rgb(13, 13, 105);
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 19px;
+  list-style-type: none;
+}
+
+.period {
+  font-size: 14pt;
+  font-weight: 300;
+}
+.card-title,
+.text-muted {
+  text-align: center;
+}
+.card {
+  border-radius: 30px;
+  border: 2px solid;
+  width: 250px;
+  height: 300px;
+}
